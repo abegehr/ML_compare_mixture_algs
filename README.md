@@ -10,8 +10,8 @@
 4. Webbrowser with jupyter notebooks running opens.
 5. Open ```main.ipynb``` in jupyter notebooks.
 6. Run all cells.
-7. Animations comparing expectation maximization (EM) and variational inference applied on a mixture of Gaussians is shown.
-8. Change parameters to test the different methods. Use the settings in the second to last cell to change parameter settings under ```# PARAMETER SETTINGS HERE```. For example, try these settings:
+7. Animations comparing expectation maximization (EM) and variational inference applied on a mixture of Gaussians are shown. Great!
+8. Change parameters to test the two methods. Use the settings in the second to last cell to change parameter settings under ```# PARAMETER SETTINGS HERE```. For example, try these settings:
 	* ```n_components = 4, weight_concentration_prior = 1e-3```
 	* ```n_components = 5, weight_concentration_prior = 1e-3```
 	* ```n_components = 8, weight_concentration_prior = 1e-3```
