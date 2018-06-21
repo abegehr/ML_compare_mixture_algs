@@ -1,4 +1,4 @@
-#ML\_compare\_mixture\_algs
+# ML\_compare\_mixture\_algs
 
 **Goal:** Comparing expectation maximization (EM) and variational inference for mixture of Gaussians.
 
@@ -28,7 +28,7 @@
 ```n_components = 5, weight_concentration_prior = 1e-3```
 
 
--
+---
 
 This animation was created as part of the seminar [_Mathematics of machine learning_](https://www.mi.fu-berlin.de/en/math/groups/hysteresis/teaching/machine-learning3.html) SS2018 (Docent: [PD Dr. Pavel Gurevich](https://www.mi.fu-berlin.de/en/math/groups/hysteresis/members/projectleader/gurevich.html)). Group #6.
 
