@@ -25,7 +25,7 @@
 
 ![Animation gif not found](./animation.gif)
 
-```n_components = 5, weight_concentration_prior = 1e-3```
+Settings: ```n_components = 5, weight_concentration_prior = 1e-3```
 
 
 ---
