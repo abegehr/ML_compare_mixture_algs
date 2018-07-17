@@ -1,8 +1,14 @@
 # ML\_compare\_mixture\_algs
 
-**Goal:** Comparing expectation maximization (EM) and variational inference for mixture of Gaussians.
+**Goal:** Compare expectation maximization (EM) and variational inference for mixture of Gaussians.
 
-## How to run and experiment:
+## View a animated comparision
+
+Check out the results of running main.ipynb with the default settings, here: [https://abegehr.github.io/ML_compare_mixture_algs/](https://abegehr.github.io/ML_compare_mixture_algs/)
+
+And then run your own experiments!
+
+## Run and experiment on your own:
 
 1. Clone or download this repository.
 2. Navigate to folder: ```cd (path to)/ML_compare_mixture_algs/```
@@ -21,7 +27,7 @@
 	* Variational Inference for mixture of Gaussians: [sklearn.mixture.BayesianGaussianMixture](http://scikit-learn.org/stable/modules/generated/sklearn.mixture.BayesianGaussianMixture.html)
 10. Happy experimenting!
 
-## Example
+## Animated Example
 
 ![Animation gif not found](./animation.gif)
 
