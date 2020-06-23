@@ -33,6 +33,6 @@ Check out the whole Jupyter Notebook here: [https://abegehr.github.io/ML_compare
 
 ---
 
-This animation was created as part of the seminar [_Mathematics of machine learning_](https://www.mi.fu-berlin.de/en/math/groups/hysteresis/teaching/machine-learning3.html) SS2018 (Docent: [PD Dr. Pavel Gurevich](https://www.mi.fu-berlin.de/en/math/groups/hysteresis/members/projectleader/gurevich.html)). Group #6.
+This animation was created as part of the seminar [_Mathematics of machine learning_](https://www.mi.fu-berlin.de/en/math/groups/hysteresis/teaching/machine-learning3.html) SS2018 ([PD Dr. Pavel Gurevich](https://www.mi.fu-berlin.de/en/math/groups/hysteresis/members/projectleader/gurevich.html)). Group #6.
 
 If you have any comments or questions, please contact: [a.begehr@fu-berlin.de](mailto:a.begehr@fu-berlin.de)
